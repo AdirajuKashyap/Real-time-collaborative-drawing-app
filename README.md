@@ -42,5 +42,7 @@ Then open `http://localhost:3000` in two or more browser windows to test collabo
 - `npm start` – Start Express + Socket.IO server and serve static client
 - `npm run dev` – Start with nodemon for development
 
+## License
+MIT
 
 
